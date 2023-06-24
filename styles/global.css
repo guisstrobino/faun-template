@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("../fonts/BebasNeue-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oswald";
+    font-weight: 200;
+    font-style: normal;
+    src: url("../fonts/Oswald-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oswald";
+    font-weight: bold;
+    font-style: normal;
+    src: url("../fonts/Oswald-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oswald";
+    font-weight: 600;
+    font-style: normal;
+    src: url("../fonts/Oswald-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Raleway";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../fonts/Raleway-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Raleway";
+    font-weight: 100;
+    font-style: normal;
+    src: url("../fonts/Raleway-Thin.ttf") format("truetype");
+}
