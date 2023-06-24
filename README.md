@@ -1,3 +1,14 @@
+## Setting Up
+
+First, create a file named `.env.local`
+
+Then, set the Spotify variables as:
+
+```bash
+NEXT_PUBLIC_SPOTIFY_CLIENT_ID=<YOUR_ID>
+NEXT_PUBLIC_SPOTIFY_CLIENT_SECRET=<YOUR_SECRET_ID>
+```
+
 ## Getting Started
 
 First, build the container:
